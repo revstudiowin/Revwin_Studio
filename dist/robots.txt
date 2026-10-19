@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://revwinn-connected-studio.zaidarif886.chatgpt.site/sitemap.xml

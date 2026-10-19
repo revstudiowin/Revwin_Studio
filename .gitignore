@@ -1,0 +1,4 @@
+.openai/
+.publish-repo/
+node_modules/
+*.log
